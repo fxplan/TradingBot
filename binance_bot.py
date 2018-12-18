@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-Copyright FXPlan.com bitcforex 2018/12/16
+Copyright FXPlan.com bitcforex 2018/12/18
 import datetime
 import time
 from datetime import datetime, timedelta
